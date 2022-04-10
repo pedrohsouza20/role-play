@@ -11,3 +11,7 @@
 ## :man_technologist: Objetivo
 
 - O projeto RolePlay tem, como foco, registrar meu aprendizado do framework Adonis.js.
+
+## :blue_book: Entidades
+
+<img src="https://i.imgur.com/7RQpBeG.png" title="Entidades do projeto">
