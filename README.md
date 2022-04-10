@@ -6,9 +6,7 @@
 
 - #### Um mestre é responsável por cadastrar a mesa e definir as regras do jogo.
 
-- #### Jogadores interessados podem procurar uma mesa e solicitar se juntar a ela,
-
-- #### aguardando a aprovação do mestre para a sua solicitação.
+- #### Jogadores interessados podem procurar uma mesa e solicitar se juntar a ela, aguardando a aprovação do mestre para a sua solicitação.
 
 ## :man_technologist: Objetivo
 
